@@ -1,2 +1,1 @@
-Theres no place like home > README.md
-echo Theres no place like home
+a script that changes the working directory to the user’s home directory
