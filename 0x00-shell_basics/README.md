@@ -1,2 +1,1 @@
-Whats in there? > README.md
-echo Whats in there?
+a script that prints the absolute path name of the current working directory
