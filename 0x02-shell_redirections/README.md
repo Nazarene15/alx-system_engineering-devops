@@ -1,1 +1,1 @@
-a script that that deletes all regular files with .js extention
+a script that counts the number of directories and sub-directories in the current directory
