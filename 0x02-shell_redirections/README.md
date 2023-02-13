@@ -1,1 +1,1 @@
-a script that creates a new file
+current state of directory
