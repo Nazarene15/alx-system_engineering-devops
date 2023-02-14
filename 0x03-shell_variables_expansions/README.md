@@ -5,3 +5,4 @@ If the path be beautiful, let us not ask where it leads
 A script that lists environment variables
 A script that lists all local variables and environment variable, and functions
 A script that creates a new local variable
+A script that creates a new global variable
